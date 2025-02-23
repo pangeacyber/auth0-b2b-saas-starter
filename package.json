@@ -11,7 +11,7 @@
     "auth0:bootstrap": "node ./scripts/bootstrap.mjs"
   },
   "dependencies": {
-    "@auth0/nextjs-auth0": "^4.0.0",
+    "@auth0/nextjs-auth0": "3.6.0",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@mui/material": "6.4.5",
@@ -42,8 +42,8 @@
     "next": "14.2.24",
     "next-themes": "0.4.4",
     "ora": "^8.2.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
     "sonner": "^2.0.0",
     "tailwind-merge": "^3.0.1",
     "tailwindcss-animate": "^1.0.7"
@@ -52,14 +52,14 @@
     "@ianvs/prettier-plugin-sort-imports": "^4.4.1",
     "@mui/x-data-grid": "7.27.0",
     "@types/node": "^22.13.4",
-    "@types/react": "^19.0.0",
-    "@types/react-dom": "^19.0.0",
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
     "eslint": "^8.57.1",
     "eslint-config-next": "15.1.7",
     "postcss": "^8.5.3",
     "prettier": "^3.5.1",
     "prettier-plugin-tailwindcss": "^0.6.11",
-    "tailwindcss": "^4.0.1",
+    "tailwindcss": "3.4.17",
     "typescript": "^5.7.3"
   }
 }
