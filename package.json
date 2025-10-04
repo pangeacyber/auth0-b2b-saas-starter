@@ -15,7 +15,7 @@
     "@auth0/nextjs-auth0": "3.8.0",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
-    "@mui/material": "7.3.2",
+    "@mui/material": "7.3.3",
     "@pangeacyber/react-mui-audit-log-viewer": "2.0.3",
     "@pangeacyber/react-mui-share-file-viewer": "2.0.2",
     "@radix-ui/react-alert-dialog": "^1.1.15",
@@ -51,7 +51,7 @@
   },
   "devDependencies": {
     "@ianvs/prettier-plugin-sort-imports": "^4.7.0",
-    "@mui/x-data-grid": "8.13.0",
+    "@mui/x-data-grid": "8.13.1",
     "@types/node": "^22.18.8",
     "@types/react": "18.3.25",
     "@types/react-dom": "18.3.7",
